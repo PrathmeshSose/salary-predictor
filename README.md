@@ -5,6 +5,7 @@ A machine learning-based web application that predicts employee salaries in USD 
 
 🔗 **Live App**: [https://paypredictor.streamlit.app/](https://paypredictor.streamlit.app/)  
 📦 **GitHub Repo**: [https://github.com/PrathmeshSose/salary-predictor](https://github.com/PrathmeshSose/salary-predictor)
+   **Report** : [Salary_Prediction_Project.pdf](https://github.com/user-attachments/files/21220701/Salary_Prediction_Project.pdf)
 
 ---
 
